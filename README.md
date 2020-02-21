@@ -4,3 +4,6 @@ IBM Pro Data Science Capstone
 - Foursquare API
 - Segmentation 
 - Clustering
+- Jupyter Notebook
+- Pandas
+- NumPy
